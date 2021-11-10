@@ -2570,8 +2570,9 @@ figure.vimeo a img, figure.youtube a img {
 		margin: 0;
 	}
 	.swiper-slide h1{
-		font-size: 40px;
+		font-size: 24px;
 		letter-spacing: 1px;
+		padding-left: 2rem;
 	}
 	.case-study-images li .hero-number-fixed.bottom-name{
 		bottom: 140px;
@@ -2665,7 +2666,8 @@ figure.vimeo a img, figure.youtube a img {
 		width: 50%;
 	}
 	.swiper-slide h1{
-		font-size: 30px;
+		font-size: 20px;
+		padding-left: 2rem;
 	}
 	.case-study-images li .img-hero-background-over{
 		width: calc(100% - 100px);
@@ -2731,7 +2733,8 @@ figure.vimeo a img, figure.youtube a img {
 		font-size: 1.4rem;
 	}
 	.swiper-slide h1{
-		font-size: 34px;
+		font-size: 20px;
+		padding-left: 2rem;
 	}
 	.curent-page-name-shadow {
 		display: none;
