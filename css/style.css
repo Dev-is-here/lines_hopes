@@ -903,7 +903,8 @@ body.nav-active .nav__list-item:nth-child(10) {
 }
 .swiper-slide h1{
 	position: relative; 
-	font-size: 60px;
+	font-size: 40px;
+	padding-left: 2rem !important;
 	letter-spacing: 3px;
 	line-height: 1;
 	font-weight: 800;
